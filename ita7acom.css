@@ -1,0 +1,9 @@
+body {
+    display: none!important;
+}
+html {
+    background-image: url(https://dookmobile.org/dookl.png)!important;
+    background-size: contain!important;
+    background-repeat: no-repeat!important;
+    background-position: 50% 50%!important;
+}
